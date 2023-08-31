@@ -1,0 +1,21 @@
+
+div{
+    place-items: center;
+    background-color: antiquewhite;
+    border-width: 2px;
+    border-style: solid;
+    padding-left: 180px;
+    height:300px;
+    width:400px;
+    margin-top:150px;
+    margin-left:350px;
+
+}
+.calc
+{
+    background-color:RGB(168, 50, 80);
+    height:300px;
+    place-items: center;
+    font-size:30px;
+    font-weight:900px;
+}
