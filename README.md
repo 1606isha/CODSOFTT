@@ -1,1 +1,1 @@
-# CODSOFTT calculator
+ calculator
